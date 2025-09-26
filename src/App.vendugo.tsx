@@ -27,7 +27,7 @@ const App: React.FC = () => {
       <ThemeProvider theme={theme}>
         <CssBaseline />
         <CardNav
-          logo="/images/logo-whiet.png"
+          logo="/images/logo-white.png"
           items={[
             {
               label: 'About Us',
