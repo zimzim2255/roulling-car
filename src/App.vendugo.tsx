@@ -75,7 +75,7 @@ const App: React.FC = () => {
         <VehicleShowcaseWithCTA
           title="Combine strength and courage on the terrain you will face"
           description="We provide offroad car to rent for your trip. It can be useful in any circumstances you will have, from driving on the asphalt"
-          imageSrc="/images/vehicle-1.svg"
+          imageSrc="./images/vehicle-1.svg"
           imageAlt="Rugged off-road truck"
         />
         <CarRangeSection />
