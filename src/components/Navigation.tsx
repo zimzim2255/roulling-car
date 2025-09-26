@@ -406,7 +406,7 @@ const CardNav: React.FC<CardNavProps> = ({
 
           <LogoContainer>
             <img src={logo} alt={logoAlt} />
-            <CompanyName>ROULIN CAR</CompanyName>
+            <CompanyName>ROULING CAR</CompanyName>
           </LogoContainer>
 
           <Box sx={{ width: 24 }} />

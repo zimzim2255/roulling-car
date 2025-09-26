@@ -120,7 +120,7 @@ const Footer: React.FC = () => {
     <FooterContainer>
       <FooterContent>
         <CompanySection>
-          <CompanyName>Bedlam inc.</CompanyName>
+          <CompanyName>rouling car</CompanyName>
           <SocialTitle>Follow us on</SocialTitle>
           <SocialIcons>
             <SocialIconButton>

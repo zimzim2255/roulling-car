@@ -166,8 +166,8 @@ export function Component() {
         justifyContent: "center"
       }}>
         {/* Ghost Text Background */}
-        <div className="ghost-text">
-          ROULIN<br />CAR
+        <div className="ghost-text" style={{ letterSpacing: '2px' }}>
+          ROULING<br />CAR
         </div>
         
         <div
