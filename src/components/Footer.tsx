@@ -164,7 +164,7 @@ const Footer: React.FC = () => {
       </FooterContent>
 
       <BottomSection>
-        <CopyrightText>@Bedlams TM, All Rights Reserved</CopyrightText>
+        <CopyrightText>@Evolution Ltd, All Rights Reserved</CopyrightText>
         <LegalLinks>
           <LegalText>Cookie Policy</LegalText>
           <LegalText>Legal Notice</LegalText>

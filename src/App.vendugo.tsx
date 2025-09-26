@@ -27,7 +27,7 @@ const App: React.FC = () => {
       <ThemeProvider theme={theme}>
         <CssBaseline />
         <CardNav
-          logo="/images/logo-white.png"
+          logo="./images/logo-white.png"
           items={[
             {
               label: 'About Us',
@@ -61,14 +61,14 @@ const App: React.FC = () => {
           title="Dashing, tough and reliable is their forte"
           description="Driving a 4x4 car in the beautiful roads Offroad rental is an exciting experience and an opportunity to drive a 4x4 car in the beautiful roads of Turkey."
           buttonText="Contact Us"
-          imageSrc="/images/vehicle-2.svg"
+          imageSrc="./images/vehicle-2.svg"
           imageAlt="Off-road vehicle in desert terrain"
         />
         <VehicleShowcase
           title="With the right vehicle you can explore and achieve your freedom where you want"
           description="We provide Offroad car to rent. If you want to explore the world, get lost in nature, ride deep into the desert or just want to drive like a maniac then our off-"
           buttonText="Contact Us"
-          imageSrc="/images/vehicle-1.svg"
+          imageSrc="./images/vehicle-1.svg"
           imageAlt="Off-road vehicle in mountain terrain"
           reverse
         />
