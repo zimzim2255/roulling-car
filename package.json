@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "type": "module",
-  "homepage": "https://zimzim2255.github.io/roulling-car",
+  "homepage": "https://zimzim2255.github.io/rouling-car-seit-2",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
