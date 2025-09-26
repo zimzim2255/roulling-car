@@ -4,7 +4,7 @@ import react from '@vitejs/plugin-react'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/rouling-car-seit-2/',
+  base: '/roulling-car/',
   build: {
     outDir: 'dist',
     assetsDir: 'assets',
